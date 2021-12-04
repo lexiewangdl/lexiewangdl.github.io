@@ -5,7 +5,10 @@ permalink: /about/
 image: '/images/img-about-01.jpg'
 ---
 
-I recently graduated from University of California, Santa Barbara and earned a BA degree in Linguistics (Language and Speech Technologies Emphasis) and in Communication. I'm especially passionate about Natural Language Processing (NLP) and/or computational linguistics. 
+I recently graduated from University of California, Santa Barbara and earned a BA degree in Linguistics (Language and Speech Technologies Emphasis) and in Communication. I'm especially passionate about Natural Language Processing (NLP) / computational linguistics. As of right now, I'm in the process of applying for a graduate program in NLP/CL.
+
+#### Experiences
+I spent my senior year at UCSB working as the Media Manager at [Center for Information Technology and Society (CITS)](https://cits.ucsb.edu/), where I managed the center's online presence (website and twitter), developed promotional materials for academic events, and organized publications of the center's affiliates. 
 
 #### Hobbies and Interests
 I've always been very interested in learning new languages. I chose to minor in Japanese when I was studying at UCSB, and one hour of chatting and reading in Japanese was really the best way to start my day as a college student. Recently, I've been thinking about learning Italian but I haven't really started on anything.
