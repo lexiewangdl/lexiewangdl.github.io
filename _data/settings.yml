@@ -30,11 +30,11 @@ hero:
 #-------------------------------
 # Footer Settings
 social:
-- {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
+# - {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
 - {icon: "ion-logo-linkedin", color: "#0077b5", label: Linkedin, link: "https://www.linkedin.com/in/chenyue-wang-51073b225/"}
-- {icon: "ion-logo-pinterest", color: "#bd081c", label: Pinterest, link: "https://pinterest.com"}
+# - {icon: "ion-logo-pinterest", color: "#bd081c", label: Pinterest, link: "https://pinterest.com"}
 - {icon: "ion-md-book", color: "#fe0000", label: RED, link: "https://www.xiaohongshu.com/user/profile/557d11b941a2b35a959984ae?xhsshare=WeixinSession&appuid=557d11b941a2b35a959984ae&apptime=1638615764"}
-- {icon: "ion-logo-instagram", color: "#e4405f", label: Instagram, link: "https://instagram.com"}
+# - {icon: "ion-logo-instagram", color: "#e4405f", label: Instagram, link: "https://instagram.com"}
 
 # Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
