@@ -26,9 +26,9 @@ Travelling is also something I enjoy a lot, but I haven't been travelling as muc
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/trv01.jpg">
-    <img src="/images/trv02.jpg">
-    <img src="/images/trv03.jpg">
+    <img src="/images/001.jpg">
+    <img src="/images/002.jpg">
+    <img src="/images/003.jpg">
     <img src="/images/trv04.jpg">
     <img src="/images/trv05.jpg">
     <img src="/images/trv06.jpg">
