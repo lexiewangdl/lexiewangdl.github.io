@@ -4,7 +4,8 @@ title: Contact
 permalink: /contact/
 image: 
 ---
-#### Chenyue (Lexie) Wang
+####Chenyue (Lexie) Wang
+
 **Pronouns:** she/her/hers
 
 **Email:** [chenyuewang@ucsb.edu](chenyuewang@ucsb.edu)
