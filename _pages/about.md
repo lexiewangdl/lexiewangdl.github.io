@@ -26,12 +26,12 @@ Travelling is also something I enjoy a lot, but I haven't been travelling as muc
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/001.jpg">
+    <img src="/images/004.jpg">
     <img src="/images/002.jpg">
     <img src="/images/003.jpg">
-    <img src="/images/trv04.jpg">
-    <img src="/images/trv05.jpg">
-    <img src="/images/trv06.jpg">
+    <img src="/images/007.jpg">
+    <img src="/images/005.jpg">
+    <img src="/images/006.jpg">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
