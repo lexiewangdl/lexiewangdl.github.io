@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Lexie Wang
-logo: '/images/logo-lx.png'
+logo: #'/images/logo-lx.png'
 author: Lexie Wang
 description: This is Lexie's personal website.
 
