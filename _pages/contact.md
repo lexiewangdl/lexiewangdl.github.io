@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 image: 
 ---
-####Chenyue (Lexie) Wang
+#### Chenyue (Lexie) Wang
 
 **Pronouns:** she/her/hers
 
