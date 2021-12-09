@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Contact
+title: Contact Me
 permalink: /contact/
-image: '/images/08.jpg'
+image: 
 ---
+**Email:** [chenyuewang@ucsb.edu](chenyuewang@ucsb.edu)
+
 
 <div class="form-box">
   <div class="contact-head">
