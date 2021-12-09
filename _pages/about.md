@@ -24,6 +24,18 @@ I've always been very interested in learning new languages. I chose to minor in 
 
 Travelling is also something I enjoy a lot, but I haven't been travelling as much since the COVID-19 pandemic. Travelling calms me down by allowing me to temporarily escape from reality and just reflect on things quietly. I've been to amazing places like Chengdu, Tokyo, Seoul, Kuala Lumpur, Koh Samui, New York and many more. In the next few years, I'd like to discover more hidden places on earth, like Machu Picchu.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/trv01.jpg">
+    <img src="/images/trv02.jpg">
+    <img src="/images/trv03.jpg">
+    <img src="/images/trv04.jpg">
+    <img src="/images/trv05.jpg">
+    <img src="/images/trv06.jpg">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
+
 I usually spend my leisure time playing video games. Recently, my favorite games are [NARAKA](https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/) and It Takes Two. I'm also a big fan of sim racing games, my favorite of which is Assetto Corsa Competizione.
 
 
