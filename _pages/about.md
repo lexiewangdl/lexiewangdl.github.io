@@ -29,9 +29,6 @@ Travelling is also something I enjoy a lot, but I haven't been travelling as muc
     <img src="/images/004.jpg">
     <img src="/images/002.jpg">
     <img src="/images/003.jpg">
-    <img src="/images/007.jpg">
-    <img src="/images/005.jpg">
-    <img src="/images/006.jpg">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
