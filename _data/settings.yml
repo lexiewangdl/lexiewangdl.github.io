@@ -28,6 +28,16 @@ hero:
 
 
 #-------------------------------
+# Portfolio Settings
+portfolio:
+  portfolio__title: Gallery
+  portfolio__gallery:
+    - image: /images/image-cert-01.png
+      title: Algorithmic Toolbox Coursera Certificate
+      description: Verify this certificate <a href="https://coursera.org/share/de9dbde95c8aa0836eae75ba63d5b8bc">Coursera</a>
+
+
+#-------------------------------
 # Footer Settings
 social:
 # - {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
