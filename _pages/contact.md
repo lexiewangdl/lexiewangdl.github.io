@@ -8,7 +8,7 @@ image:
 
 **Pronouns:** she/her/hers
 
-**Email:** [lexwang@uw.edu](lexwang@uw.edu) | [chenyuewang@ucsb.edu](chenyuewang@ucsb.edu)
+**Email:** [lexwang@uw.edu](lexwang@uw.edu)
 
 
 <div class="form-box">
