@@ -24,7 +24,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hello, my name’s Lexie.
-  hero__description: I'm currently a student at University of Washington pursuing a M.S. in Computational Linguistics. I graduated from University of California, Santa Barbara in 2021 with a BA degree in Linguistics (Language and Speech Technologies Emphasis) and Communication.
+  hero__description: I'm currently a student at University of Washington pursuing a M.S. in Computational Linguistics. I graduated from University of California, Santa Barbara in 2021 with a BA degree in Linguistics (Language and Speech Technologies Emphasis) and Communication with a minor in Japanese. My pronouns are she/her/hers.
 
 
 #-------------------------------
@@ -80,7 +80,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: chenyuewang@ucsb.edu # Add your email for contact form
+  email: lexwang@uw.edu # Add your email for contact form
 #  description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
 
 # NOTE
