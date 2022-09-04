@@ -24,7 +24,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hello, my name’s Lexie.
-  hero__description: I'm currently a student at University of Washington,ß pursuing a M.S. in Computational Linguistics. I graduated from University of California, Santa Barbara in 2021 with a BA degree in Linguistics (Language and Speech Technologies Emphasis) and Communication, with a minor in Japanese.
+  hero__description: I'm currently pursuing a M.S. in Computational Linguistics at University of Washington. I graduated from UC Santa Barbara in 2021 with a Bachelor's degree in Linguistics (Language and Speech Technologies Emphasis) and Communication, with a minor in Japanese.
 
 
 #-------------------------------
