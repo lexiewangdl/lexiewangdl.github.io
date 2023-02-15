@@ -24,7 +24,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hello, my name’s Lexie.
-  hero__description: I'm currently pursuing a M.S. in Computational Linguistics at University of Washington. I graduated from UC Santa Barbara in 2021 with a Bachelor's degree in Linguistics (Language and Speech Technologies Emphasis) and Communication, with a minor in Japanese.
+  hero__description: I am a full-time Master's student studying Computational Linguistics at University of Washington. I graduated from UC Santa Barbara in 2021 with a Bachelor's degree in Linguistics (Language and Speech Technologies Emphasis) and Communication, with a minor in Japanese.
 
 
 #-------------------------------
@@ -62,7 +62,7 @@ portfolio:
 # Footer Settings
 social:
 # - {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-linkedin", color: "#0077b5", label: Linkedin, link: "https://www.linkedin.com/in/chenyue-wang-51073b225/"}
+- {icon: "ion-logo-linkedin", color: "#0077b5", label: Linkedin, link: "https://www.linkedin.com/in/lexie-wang-15497b183"}
 # - {icon: "ion-logo-pinterest", color: "#bd081c", label: Pinterest, link: "https://pinterest.com"}
 # - {icon: "ion-md-book", color: "#fe0000", label: RED, link: "https://www.xiaohongshu.com/user/profile/557d11b941a2b35a959984ae?xhsshare=WeixinSession&appuid=557d11b941a2b35a959984ae&apptime=1638615764"}
 - {icon: "ion-logo-github", color: "#211f1f", label: GitHub, link: "https://github.com/lexiewangdl"}
