@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/img-about-01.jpg'
+image: ''
 ---
 
 I'm a full-time Master's student studying [computational linguistics](https://www.compling.uw.edu/) at University of Washington. I'm especially passionate about Natural Language Processing (NLP) / computational linguistics. My main research interests include machine translation, semantic analysis, and interdisciplinary research using NLP techniques to study social scientific issues. I graduated from University of California, Santa Barbara in 2021, and earned a BA degree in Linguistics (Language and Speech Technologies Emphasis) and in Communication.  
@@ -42,7 +42,7 @@ I enjoy a variety of sports including snowboarding (my recent favorite), weightl
 
 ### Contact me
 
-E-mail: [lexwang@uw.edu](lexwang@uw.edu) | [chenyuewang@ucsb.edu](chenyuewang@ucsb.edu) 
+E-mail: [lexwang@uw.edu](lexwang@uw.edu)
 
 
 ***
