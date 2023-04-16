@@ -37,7 +37,7 @@ Travelling is also something I enjoy a lot, as it calms me down by allowing me t
 
 ##### Sports
 
-I enjoy a variety of sports including snowboarding (my recent favorite), weightlifting, surfing, tennis, etc. Plus, I'm a video gamer and simulation racer.
+I enjoy a variety of sports including snowboarding (my recent favorite), weight training, surfing, tennis, etc. Plus, I'm a video gamer and simulation racer.
 
 
 ### Contact me
