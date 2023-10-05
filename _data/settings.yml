@@ -24,8 +24,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hello, this is Lexie.
-  hero__description: I am a full-time Master's student studying Computational Linguistics at University of Washington. I graduated from UC Santa Barbara in 2021 with a Bachelor's degree in Linguistics (Language and Speech Technologies Emphasis) and Communication, with a minor in Japanese.
-
+  hero__description: I am a Master's student studying Computational Linguistics at University of Washington. My research interests include Natural Language Processing, Machine Learning, and Data Science. I am especially interested in applying NLP and ML techniques to solve real-world problems, such as social media analysis, user data analysis, recommendation systems, etc. I am currently looking for full-time opportunities starting in June - September, 2024.
 
 #-------------------------------
 # Portfolio Settings
@@ -82,12 +81,12 @@ contact:
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
 
-#-------------------------------
-# Comment Section (Disqus)
-
-disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
-
-
-#-------------------------------
-# Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+##-------------------------------
+## Comment Section (Disqus)
+#
+#disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+#
+#
+##-------------------------------
+## Google Analytics
+#google-analytics: # Add your identifier. For example UA-99631805-1.
