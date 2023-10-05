@@ -24,12 +24,12 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hello, this is Lexie.
-  hero__description: I am a Master's student studying Computational Linguistics at University of Washington. My research interests include Natural Language Processing, Machine Learning, and Data Science. I am especially interested in applying NLP and ML techniques to solve real-world problems, such as social media analysis, user data analysis, recommendation systems, etc. I am currently looking for full-time opportunities starting in June - September, 2024.
+  hero__description: I am a Master's student studying Computational Linguistics at University of Washington. I am especially interested in applying Natural Language Processing (NLP) and Machine Learning (ML) techniques to solve real-world problems, such as social media analysis, user data analysis, recommendation systems, etc. I am currently looking for full-time opportunities starting in June - September, 2024.
 
 #-------------------------------
 # Portfolio Settings
 portfolio:
-  portfolio__title: Gallery
+  portfolio__title: Certificates
   portfolio__gallery:
     - image: /images/image-cert-01.png
       title: Algorithmic Toolbox Coursera Certificate
