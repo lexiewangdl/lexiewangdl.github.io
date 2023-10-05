@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a full-time Master's student studying [computational linguistics](https://www.compling.uw.edu/) at University of Washington. I'm especially passionate about Natural Language Processing (NLP) / computational linguistics. My main research interests include machine translation, semantic analysis, and interdisciplinary research using NLP techniques to study social scientific issues. I graduated from University of California, Santa Barbara in 2021, and earned a BA degree in Linguistics (Language and Speech Technologies Emphasis) and in Communication.  
+I'm a full-time Master's student studying [computational linguistics](https://www.compling.uw.edu/) at University of Washington. I'm especially passionate about Natural Language Processing (NLP) / computational linguistics. 
+My main research interests include natural language understanding, generative AI, machine translation, semantic analysis, and using NLP techniques for social scientific research. I graduated from UC Santa Barbara, with a BA in Linguistics (Language and Speech Technologies Emphasis) and in Communication.  
 
 #### Research
 
@@ -28,7 +29,7 @@ I spent my senior year at UCSB working as the Media Manager at [Center for Infor
 #### Hobbies and Interests
 ##### Language Learning
 
-As a computational linguist who received training as a linguist, I've always been a zealous language learner. I minored in Japanese in college. I hold the N2-level certificate of [Japanese Language Proficiency Test (JLPT)](https://www.jlpt.jp/e/) Recently, I started learning Italian. Mi chiamo Lexie, e sono cinese di Dalian.
+As a computational linguist who received training as a linguist, I've always been a zealous language learner. I minored in Japanese in college. I hold the N2-level certificate of [Japanese Language Proficiency Test (JLPT)](https://www.jlpt.jp/e/) Recently, I started learning Italian. 
 
 ##### Travelling
 
@@ -36,7 +37,7 @@ Travelling is also something I enjoy a lot, as it calms me down by allowing me t
 
 ##### Sports
 
-I enjoy a variety of sports including snowboarding (my recent favorite), weight training, surfing, tennis, etc. Plus, I'm a video gamer and simulation racer.
+I enjoy a variety of sports including snowboarding (my recent favorite), weight training, tennis, surfing, etc. Plus, I'm a video gamer and motorcycle rider.
 
 
 ### Contact me
