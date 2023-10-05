@@ -67,7 +67,21 @@ My travel bucket list ...
 
 #### Sports
 
-I enjoy a variety of sports including snowboarding (my recent favorite), weight training, tennis, surfing, etc. Plus, I'm a video gamer and motorcycle rider.
+* 🏂 Snowboarding
+  * I am a newbie snowboarder. I started snowboarding in 2023 and I'm planning to keep practicing and improving my skills.
+  * Resorts I've been to:
+    * Steamboat Springs, CO
+    * Snoqualmie Pass, WA
+    * Crystal Mountain, WA
+* 🏋️‍♀️ Weight training
+  * Deadlift is my favorite :)
+* 🎾 Tennis
+* 🏍 Motorcycling
+  * I have a cute little Kawasaki Ninja 400!
+* 🏄‍ Surfing
+* 🎮 Video games
+  * NARAKA used to be my favorite game.
+  * I don't play video games as much as I used to.
 
 
 ### Contact me
