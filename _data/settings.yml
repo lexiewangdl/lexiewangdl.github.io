@@ -27,6 +27,13 @@ hero:
   hero__description: I am a Master's student studying Computational Linguistics at University of Washington. I am especially interested in applying Natural Language Processing (NLP) and Machine Learning (ML) techniques to solve real-world problems, such as social media analysis, user data analysis, recommendation systems, etc. I am currently looking for full-time opportunities starting in June - September, 2024.
 
 #-------------------------------
+# Projects Settings
+article:
+    article__title: Projects
+    article__description: Here are some of my projects.
+
+
+#-------------------------------
 # Portfolio Settings
 portfolio:
   portfolio__title: Certificates
@@ -60,10 +67,7 @@ portfolio:
 #-------------------------------
 # Footer Settings
 social:
-# - {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
 - {icon: "ion-logo-linkedin", color: "#0077b5", label: Linkedin, link: "https://www.linkedin.com/in/lexie-wang-15497b183"}
-# - {icon: "ion-logo-pinterest", color: "#bd081c", label: Pinterest, link: "https://pinterest.com"}
-# - {icon: "ion-md-book", color: "#fe0000", label: RED, link: "https://www.xiaohongshu.com/user/profile/557d11b941a2b35a959984ae?xhsshare=WeixinSession&appuid=557d11b941a2b35a959984ae&apptime=1638615764"}
 - {icon: "ion-logo-github", color: "#211f1f", label: GitHub, link: "https://github.com/lexiewangdl"}
 - {icon: "ion-md-code", color: "#f4bd48", label: LeetCode, link: "https://leetcode.com/lexiewang/"}
 
