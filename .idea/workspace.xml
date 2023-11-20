@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd62d3ff-b1dc-457b-9ef6-960efbc79b0c" name="Changes" comment="Update settings.yml" />
+    <list default="true" id="cd62d3ff-b1dc-457b-9ef6-960efbc79b0c" name="Changes" comment="Add project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,16 +23,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="21okKFan2TqWDKe9EQTpQKxu7rj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/chenyuewang/Documents/GitHub/lexiewangdl.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\project1\lexiewangdl.github.io\_posts" />
@@ -36,6 +58,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638614762193</updated>
+      <workItem from="1681634705374" duration="798000" />
+      <workItem from="1696538452058" duration="5461000" />
+      <workItem from="1700447141271" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="Update settings.yml">
       <created>1661874935041</created>
@@ -51,8 +76,81 @@
       <option name="project" value="LOCAL" />
       <updated>1661875283561</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update main page description">
+      <created>1696538715070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696538715070</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update main page description">
+      <created>1696539012664</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696539012664</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update main page description">
+      <created>1696539289447</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696539289447</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update main page description">
+      <created>1696539393728</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696539393728</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Remove message box">
+      <created>1696539462077</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696539462077</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update title">
+      <created>1696540333091</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696540333091</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update hobbies and interest">
+      <created>1696541887075</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696541887075</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update hobbies and interest">
+      <created>1696542161427</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696542161427</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add projects and image">
+      <created>1696542800886</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696542800886</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add project">
+      <created>1696543916306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696543916306</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -64,10 +162,15 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update settings.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update settings.yml" />
+    <MESSAGE value="Update main page description" />
+    <MESSAGE value="Remove message box" />
+    <MESSAGE value="Update title" />
+    <MESSAGE value="Update hobbies and interest" />
+    <MESSAGE value="Add projects and image" />
+    <MESSAGE value="Add project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project" />
   </component>
 </project>
