@@ -1,0 +1,102 @@
+#-------------------------------
+# Site Settings
+title: Lexie Wang
+logo: #'/images/logo-lx.png'
+author: Lexie Wang
+description: This is Lexie's personal website.
+
+
+#-------------------------------
+# Menu Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Contact'
+      url: '/contact/'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hello, this is Lexie.
+  hero__description: I am a Master's student studying Computational Linguistics at University of Washington. I am especially interested in applying Natural Language Processing (NLP) and Machine Learning (ML) techniques to solve real-world problems, such as social media analysis, user data analysis, recommendation systems, etc. I am currently looking for full-time opportunities starting in June - September, 2024.
+
+#-------------------------------
+# Projects Settings
+article:
+    article__title: Projects
+    article__description: Here are some of my projects.
+
+#-------------------------------
+# Skills Settings
+section:
+  section__title: Skills
+  section__link: Test
+
+
+#-------------------------------
+# Portfolio Settings
+portfolio:
+  portfolio__title: Certificates
+  portfolio__gallery:
+    - image: /images/image-cert-01.png
+      title: Algorithmic Toolbox Coursera Certificate
+      description: Verify this certificate <a href="https://coursera.org/share/de9dbde95c8aa0836eae75ba63d5b8bc">Coursera</a>
+
+    - image: /images/img-cert-03.png
+      title: Data Structures Coursera Certificate
+      description: Verify this certificate <a href="https://coursera.org/share/706f1657f83b19a53387316360de3b7a">Coursera</a>
+
+    - image: /images/img-cert-02.png
+      title: Bayesian Statistics Coursera Certificate
+      description: Verify this certificate <a href="https://coursera.org/share/3d50464630cbc42f97567292d86dbeb5">Coursera</a>
+
+    - image: /images/img-cert-06.png
+      title: Machine Learning Foundations Coursera Certificate
+      description: Verify this certificate <a href="https://coursera.org/verif y/THBJ7SAT7APF">Coursera</a>
+
+    - image: /images/img-cert-04.png
+      title: Blockchain Basics Coursera Certificate
+      description: Verify this certificate <a href="https://www.coursera.org/account/accomplishments/verify/VNECSTVMQZJK">Coursera</a>
+
+    - image: /images/img-cert-05.png
+      title: Smart Contracts Coursera Certificate
+      description: Verify this certificate <a href="https://coursera.org/verif y/GVHMBQ4ZZRQ7">Coursera</a>
+
+
+
+#-------------------------------
+# Footer Settings
+social:
+- {icon: "ion-logo-linkedin", color: "#0077b5", label: Linkedin, link: "https://www.linkedin.com/in/lexie-wang-15497b183"}
+- {icon: "ion-logo-github", color: "#211f1f", label: GitHub, link: "https://github.com/lexiewangdl"}
+- {icon: "ion-md-code", color: "#f4bd48", label: LeetCode, link: "https://leetcode.com/lexiewang/"}
+
+# Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: lexwang@uw.edu # Add your email for contact form
+#  description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
+
+# NOTE
+# Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+##-------------------------------
+## Comment Section (Disqus)
+#
+#disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+#
+#
+##-------------------------------
+## Google Analytics
+#google-analytics: # Add your identifier. For example UA-99631805-1.

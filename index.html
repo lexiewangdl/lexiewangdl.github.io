@@ -1,47 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-<header>
-  <nav>
-    <ul>
-      <li><a href="index.html">About Me</a></li>
-      <li><a href="projects.html">Projects</a></li>
-      <li><a href="blog.html">Blog</a></li>
-      <li><a href="publications.html">Publications</a></li>
-    </ul>
-  </nav>
-</header>
-<main>
-  <section id="about">
-    <h1>About Me</h1>
-    <p>Hello, my name is Lexie Wang. I am currently pursuing a M.S. degree in Computational Linguistics at University of Washington.</p>
-  </section>
+---
+layout: default
+image: '/images/01.jpg'
+---
 
-  <section id="skills">
-    <h2>Skills</h2>
-    <p>List my skills.</p>
-  </section>
+{% include section-hero.html %}
 
-  <section id="certificates">
-    <h2>Certificates</h2>
-    <p>List my certificates.</p>
-  </section>
+{% include section-portfolio.html %}
 
-  <section id="interests">
-    <h2>Interests</h2>
-    <p>Placeholder.</p>
-  </section>
+{% include section-blog.html %}
 
-</main>
-<footer>
-  <p>© 2023 Your Name. All rights reserved.</p>
-</footer>
-</body>
-</html>
-
+{% include section-subscribe.html %}
